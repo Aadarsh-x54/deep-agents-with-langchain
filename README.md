@@ -1,5 +1,7 @@
 # 🧠 Deep Agents with LangChain
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Aadarsh-x54/deep-agents-with-langchain&branch=main&mainModule=streamlit_app.py)
+
 An interactive conversational AI assistant and multi-agent system built with **LangChain**, **LangGraph**, and the **`deepagents`** library, featuring a full-featured **Streamlit** user interface.
 
 This project implements and demonstrates all core deep agent architectural patterns: multi-step planning, virtual filesystem tools, context engineering via `AGENTS.md`, modular skill progressive disclosure, swappable backends, and isolated subagents with structured output.
