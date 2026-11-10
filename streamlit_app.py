@@ -281,9 +281,10 @@ with st.sidebar:
     model = st.selectbox(
         "Model",
         [
-            "openai:gpt-5.4",
-            "openai:gpt-5.5",
-            "openai:gpt-4.1",
+            "groq:llama-3.3-70b-versatile",
+            "groq:llama-3.1-8b-instant",
+            "openai:gpt-4o-mini",
+            "openai:gpt-4o",
             "groq:qwen/qwen3-32b",
         ],
         index=0,
