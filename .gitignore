@@ -54,3 +54,4 @@ Thumbs.db
 
 # Streamlit config (if contains sensitive info)
 .streamlit/secrets.toml
+
