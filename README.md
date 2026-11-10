@@ -154,9 +154,3 @@ Based on LangChain & LangGraph best practices:
       ├──► [ Tools ]               ──► Tavily Web Search, Filesystem tools, write_todos
       └──► [ Subagent Routing ]    ──► research-agent | structured-researcher (Pydantic)
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
