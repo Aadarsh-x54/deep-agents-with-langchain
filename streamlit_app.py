@@ -281,11 +281,11 @@ with st.sidebar:
     model = st.selectbox(
         "Model",
         [
-            "groq:llama-3.3-70b-versatile",
-            "groq:llama-3.1-8b-instant",
+            "groq:openai/gpt-oss-120b",
+            "groq:openai/gpt-oss-20b",
+            "groq:qwen/qwen3.8-27b",
             "openai:gpt-4o-mini",
             "openai:gpt-4o",
-            "groq:qwen/qwen3-32b",
         ],
         index=0,
         help="Notebook 1: customizing the deep agent's model "
